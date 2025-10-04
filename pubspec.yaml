@@ -38,7 +38,7 @@ dependency_overrides:
   wakelock_plus: ^1.2.10
   web: ^1.0.0
   window_manager: ^0.4.3
-  webview_flutter_android: ^3.4.4
+  webview_flutter_android: ^3.6.
 
 # 
 
@@ -141,4 +141,5 @@ flutter_native_splash:
   image_dark_ios: "images/icon.png"
   image_web: "images/icon.png"
   image_dark_web: "images/icon.png"
+
 
